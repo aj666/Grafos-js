@@ -2,7 +2,7 @@
  * Dirigido
  * Implementado con una tabla de tablas Hash.
  * Creado por:
- *	-Carlos
+ *	-Carlos Alberto
  * 	-Aquiles Lazaro
  */
 function Grafo() {
@@ -50,10 +50,10 @@ function Grafo() {
 
 /*
 Grafo dirigido
-	     2 ------ 5
-	   / |      /  \
-	  /  |     /    7
-	 /   |    /    /
+        2 ------ 5
+       / |      /  \
+      /  |     /    7
+     /   |    /    /
     1 -- 4 --/----6
          |  /   
          | /     
